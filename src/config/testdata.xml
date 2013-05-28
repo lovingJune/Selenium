@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<testmodule name='AbstractTest'>
+		<home_url>http://klout.com</home_url>
+		<facebook_url>http://facebook.com</facebook_url>
+		<twitter_url>http://twitter.com</twitter_url>
+		<usernameFB>rendroidox@gmail.com</usernameFB>
+		<passwordFB>ren#123@123</passwordFB>
+		<firstnameFB>LogiGear</firstnameFB>
+		<lastnameFB>VietNam</lastnameFB>
+		<emailFB>logigearvietnam01@gmail.com</emailFB>
+		<usernameTW>rendroidox@gmail.com</usernameTW>
+		<passwordTW>ren#123@123</passwordTW>
+		<firstnameTW>logigearvietnam01</firstnameTW>
+		<lastnameTW>tin.trinh</lastnameTW>
+		<emailTW>tin.trinh@logigear.com</emailTW>
+	</testmodule>
+
+	<testmodule name='Update_User_Settings'>
+		<firstname>Logigear - Vu</firstname>
+		<lastname>DaNang</lastname>
+		<email>logigearvietnam01@gmail.com</email>
+		<updateType>brand influencer</updateType>
+		<brandName>Logigear - Test</brandName>
+	</testmodule>
+	<testmodule name='Verify_User_Settings'>
+		<usernameFB>tsburocks@gmail.com</usernameFB>
+		<passwordFB>LogiGear12345</passwordFB>
+		<urlKlout>http://klout.com</urlKlout>
+		<usernameKlout>tsburocks@gmail.com</usernameKlout>
+		<passwordKlout>LogiGear12345</passwordKlout>
+	</testmodule>	
+	
+	<testmodule name='TC_LF02'>
+		<usernameFB>lgnhannguyen@gmail.com</usernameFB>
+		<passwordFB>LogiGear12345</passwordFB>
+		<urlKlout>http://klout.com</urlKlout>
+	</testmodule>
+	
+	<testmodule name='TC_LF04_HL'>
+		<usernameFB>letinhnga@gmail.com</usernameFB>
+		<passwordFB>123456</passwordFB>
+		<lastname_FB>le</lastname_FB>
+		<firstname_FB>sara</firstname_FB>
+		<email>huyen.lt32k14@gmail.com</email>
+	</testmodule>
+	
+	
+	<testmodule name='TC_LT03'>
+		<usernameTW>logigearvietnam01@gmail.com</usernameTW>
+		<passwordTW>LogiGear12345</passwordTW>
+		<urlKlout>http://klout.com</urlKlout>
+		<urlTwitter>http://twitter.com</urlTwitter>
+	</testmodule>
+	
+	<testmodule name="TC_LT02">
+		<usernameTW>logigearvietnam01@gmail.com</usernameTW>
+		<passwordTW>LogiGear12345</passwordTW>
+	</testmodule>
+	
+	<testmodule name = "Update_Profile_Settings">
+		<home_url>http://klout.com</home_url>
+		<facebook_url>http://facebook.com</facebook_url>
+		<twitter_url>http://twitter.com</twitter_url>
+		<username>hyunkel.baltos@gmail.com</username>
+		<password>maika2309</password>
+		<email>hyunkel.baltos@gmail.com</email>
+	</testmodule>
+	
+	<testmodule name='AbstractTest'>
+		<home_url>http://klout.com</home_url>
+		<facebook_url>http://facebook.com</facebook_url>
+		<twitter_url>http://twitter.com</twitter_url>
+		<username>logigearvietnam01@gmail.com</username>
+		<password>LogiGear12345</password>
+		<email>logigearvietnam01@gmail.com</email>
+	</testmodule>
+
+	<testmodule name='Update_User_Settings'>
+		<firstname>Logigear - Vu</firstname>
+		<lastname>DaNang</lastname>
+		<email>logigearvietnam01@gmail.com</email>
+		<updateType>brand influencer</updateType>
+		<brandName>Logigear - Test</brandName>
+	</testmodule>
+	<testmodule name='Verify_User_Settings'>
+		<usernameFB>tsburocks@gmail.com</usernameFB>
+		<passwordFB>LogiGear12345</passwordFB>
+		<urlKlout>http://klout.com</urlKlout>
+		<usernameKlout>tsburocks@gmail.com</usernameKlout>
+		<passwordKlout>LogiGear12345</passwordKlout>
+	</testmodule>
+	
+	<testmodule name='TC_LT03'>
+		<usernameTW>logigearvietnam01@gmail.com</usernameTW>
+		<passwordTW>LogiGear12345</passwordTW>
+		<urlKlout>http://klout.com</urlKlout>
+		<urlTwitter>http://twitter.com</urlTwitter>
+	</testmodule>
+	
+	<testmodule name="TC_LT02">
+		<usernameTW>logigearvietnam01@gmail.com</usernameTW>
+		<passwordTW>LogiGear12345</passwordTW>
+	</testmodule>
+	
+	<testmodule name="TC_LT06">
+		<usernameTW>vuong.van@logigear.com</usernameTW>
+		<passwordTW>054815075</passwordTW>
+	</testmodule>
+		
+	<testmodule name='TC_LF07'>
+		<usernameFB>tsburocks@gmail.com</usernameFB>
+		<passwordFB>LogiGear12345</passwordFB>
+		<urlKlout>http://klout.com</urlKlout>
+		<usernameKlout>tsburocks@gmail.com</usernameKlout>
+		<passwordKlout>LogiGear12345</passwordKlout>
+	</testmodule>
+	
+	<testmodule name="TC_LF08">
+		<usernameFB>tin.trinh2010@gmail.com</usernameFB>
+		<passwordFB>LogiGear12345</passwordFB>
+		<usernameTW>logigearvietnam01@gmail.com</usernameTW>
+		<passwordTW>LogiGear12345</passwordTW>
+		<connectTW>twitter</connectTW>
+		<connectFB>facebook</connectFB>
+		<firstname_TW>Suntan</firstname_TW>
+		<lastname_TW>Boy</lastname_TW>
+		<email>thanhtan313@gmail.com</email>
+	</testmodule>
+	
+	<testmodule name="TC_LF08_2">
+		<usernameFB>dont.stop09@yahoo.com.vn</usernameFB>
+		<passwordFB>kthanhtan</passwordFB>
+		<usernameTW>dont.stop09@yahoo.com.vn</usernameTW>
+		<passwordTW>kthanhtan</passwordTW>
+		<connectTW>twitter</connectTW>
+		<connectFB>facebook</connectFB>
+		<firstname_TW>Suntan</firstname_TW>
+		<lastname_TW>Boy</lastname_TW>
+		<email>thanhtan313@gmail.com</email>
+	</testmodule>
+	
+	<testmodule name="TC_LT10">
+		<usernameTW>rendroidox@gmail.com</usernameTW>
+		<passwordTW>ren#123@123</passwordTW>
+	</testmodule>
+	
+	<testmodule name="TC_LT05">
+		<usernameTW>rendroidox@gmail.com</usernameTW>
+		<passwordTW>ren#123@123</passwordTW>
+		<usernameFb>rendroidox@gmail.com</usernameFb>
+		<passwordFb>ren#123@123</passwordFb>
+	</testmodule>
+	
+	<testmodule name='TC_LF09'>
+		<usernameFB2>lgnhannguyen@gmail.com</usernameFB2>
+		<passwordFB2>LogiGear12345</passwordFB2>
+		<fullnameFB2>Nhan Nguyen</fullnameFB2>
+	</testmodule>
+	
+	<testmodule name='TC_LF03'>
+		<FBUsername>hyunkel.baltos@gmail.com</FBUsername>
+		<FBPassword>Lgear123</FBPassword>
+	</testmodule>
+	
+	<testmodule name="TC_LT05">
+		<usernameTW>rendroidoix@gmail.com</usernameTW>
+		<passwordTW>ren#123@123</passwordTW>
+		<usernameFb>rendroidoix@gmail.com</usernameFb>
+		<passwordFb>ren#123@123</passwordFb>
+	</testmodule>
+	
+	<testmodule name='TC_LF15'>
+		<usernameFB1>lgnhannguyen@gmail.com</usernameFB1>
+		<passwordFB1>LogiGear12345</passwordFB1>
+	</testmodule>
+	
+	<testmodule name="TC_LF16">
+		<usernameTW>vuong.van@logigear.com</usernameTW>
+		<passwordTW>054815075</passwordTW>
+		
+		<usernameFB>vuong.van@logigear.com</usernameFB>
+		<passwordFB>054815075</passwordFB>
+	</testmodule>
+		
+	<testmodule name="TC_LT14">
+		<usernameTW1>lgdnklout@gmail.com</usernameTW1>
+		<passwordTW1>LogiGear12345</passwordTW1>
+	</testmodule>
+	
+	<testmodule name="TC_LT12">
+		<usernameTW>vuong.van@logigear.com</usernameTW>
+		<passwordTW>054815075</passwordTW>
+	</testmodule>
+	
+	<testmodule name='TC_LF13'>
+		<usernameFB>lgnhannguyen@gmail.com</usernameFB>
+		<passwordFB>LogiGear12345</passwordFB>
+		<fullname>Nhan Nguyen</fullname>
+		<urlKlout>http://klout.com</urlKlout>
+	</testmodule>
+	
+	<testmodule name="TC_LT11">
+		<usernameTW>rendroidox@gmail.com</usernameTW>
+		<passwordTW>ren#123@123</passwordTW>
+		<usernameFb>rendroidox@gmail.com</usernameFb>
+		<passwordFb>ren#123@123</passwordFb>
+	</testmodule>
+	
+	<testmodule name="VVV_Test_Case_01">		
+		<usernameFB>vuong.van@logigear.com</usernameFB>
+		<passwordFB>054815075</passwordFB>
+	</testmodule>
+	
+	<testmodule name="TC_LT13">
+		<usernameTW>rendroidox@gmail.com</usernameTW>
+		<passwordTW>ren#123@123</passwordTW>
+		<usernameFb>rendroidox@gmail.com</usernameFb>
+		<passwordFb>ren#123@123</passwordFb>
+	</testmodule>
+	
+	<testmodule name="TC_FT02">
+		<message>Your Tweet has been posted!</message>
+	</testmodule>
+	
+	<testmodule name="TC_FT04">
+		<user>DaviL</user>
+	</testmodule>
+	<testmodule name="TC_PT04">
+		<topicName>Media</topicName>
+	</testmodule>
+	<testmodule name="TC_FF07">
+		<username>b</username>
+		<description>Klout</description>
+		<message>Already added!</message>
+	</testmodule>
+		
+</data>

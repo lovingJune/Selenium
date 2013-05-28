@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="test.TC_FF05.TC_FF05" tests="1" time="35.293">
+	<testcase classname="test.TC_FF05.TC_FF05" name="test_TC_Popup_Displayed_And_Klout_List_Deleted" time="35.293"/>
+	<system-out>
+<![CDATA[Info: Open browser successfully
+Info: Navigate to http://klout.com successfully
+Info: Close browser
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>

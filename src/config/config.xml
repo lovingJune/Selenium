@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<browser>firefox</browser>
+	<browserVersion>9</browserVersion>
+	<report browser="FF" platform="Win 7" dateReport="12-17-2012">
+		<pathFileTC>/reportlog</pathFileTC>
+		<fileNameTC>test_cases_run</fileNameTC>
+		<pathXMLReport>/test/test-reports</pathXMLReport>
+		<fileNameRP>test_cases_report</fileNameRP>
+	</report>
+	<use_grid>No</use_grid>
+	<report_path>D:/QuangTinh/Script/workspace/Training/src/test</report_path>
+	<hub_host>192.168.191.45</hub_host>
+	<hub_port>4444</hub_port>
+	<parallel>non-parallel</parallel>
+	<grid_node name="win7-ff12">       
+		<parallel>yes</parallel>
+	    <browser>internetexplorer</browser>
+	    <platform>WINDOWS</platform>
+	    <node_host>192.168.191.192.132</node_host>
+	    <node_port>5555</node_port>
+	    <version>9</version>
+	</grid_node>
+	<grid_node name="win7-ie8">       
+		<parallel>yes</parallel>
+	    <browser>firefox</browser>
+	    <platform>WINDOWS</platform>
+	    <node_host>192.168.191.135</node_host>
+	    <node_port>5556</node_port>
+	    <version>12</version>
+	</grid_node>
+</data>
